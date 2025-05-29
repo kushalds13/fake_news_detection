@@ -1,0 +1,3 @@
+use in terminal
+cd Documents/dataset 
+streamlit run fake_news_app.py
